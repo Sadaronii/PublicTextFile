@@ -1,7 +1,22 @@
-# PublicTextFile
+# 📝 PublicTextFile
 
-## **A .txt file where anyone can contribute to.**
+---
 
-### This is a fun little project i made using Qt.
+## **A `.txt` File Where Anyone Can Contribute**
 
-#### *To actually write to this file, you need to install upload.exe and submit your text through it.*
+This is a **fun little project** I made using **Qt**.  
+
+---
+
+### 🔹 How to Contribute
+
+*To actually write to this file:*
+
+1. **Install** `upload.exe`  
+2. **Open** it and submit your text  
+
+> 💡 *Tip: There is no tip, just do whatever*
+
+---
+
+*Happy contributing!*
